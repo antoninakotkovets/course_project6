@@ -1,0 +1,45 @@
+.bookManagenent_itemsResult{
+    border: solid black;
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    text-align: center;
+}
+.bookManagement_compoments{
+    display: grid;
+    margin: 10px;
+    width: 150px;
+
+}
+.bookManagement_img_books{
+    width: 100px;
+    margin: 10px;
+}
+.bookManagement_wrapperResult{
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    background-color:white;
+    border-radius: 8px;
+    margin: 1px;    
+    margin: 5px auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bookManagement_btn{
+    display: grid;
+    margin-left: 150px;
+}
+.bm_delete,
+.bm_edit{
+    margin: 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:white;
+    width: 100px;
+    border: solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bm_delete:hover,
+.bm_edit:hover{
+    background-color:rgb(237, 237, 237);
+}

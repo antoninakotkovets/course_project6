@@ -1,0 +1,31 @@
+.btn_visitorRating,
+.btn_librarian,
+.btn_addLibrarian,
+.btn_viewAllOrders{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    border-radius:5px;
+    background: white;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid black;
+
+}
+.btn_admin{
+    position:absolute;
+    top: 70%;
+    left: 20%;
+}
+.img_admin{
+    position: fixed;
+    width: 300px;
+    left: 40%;
+    top: 20%;
+}
+.btn_visitorRating:hover,
+.btn_librarian:hover,
+.btn_addLibrarian:hover,
+.btn_viewAllOrders:hover{
+    background-color:rgb(224, 224, 224);
+}

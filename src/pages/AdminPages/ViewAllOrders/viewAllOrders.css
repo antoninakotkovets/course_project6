@@ -1,0 +1,45 @@
+.allOrders_wrapperResult{
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    background-color:white;
+    border-radius: 8px;
+    margin: 1px;    
+    width: 300px;
+    margin: 5px auto;
+    border: solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.allOrders__itemsResult{
+    display: grid;
+
+    text-align: center;
+    text-decoration: none;
+}
+.viewAllOrders_btn{
+    position: absolute;
+    top: 10px;
+}
+.btn_sortOrders,
+.btn_disSortOrders,
+.btn_profit{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    border-radius:5px;
+    background: white;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid black;
+}
+.btn_sortOrders:hover,
+.btn_disSortOrders:hover,
+.btn_profit:hover{
+    background-color:rgb(221, 221, 221);
+}
+
+.btn_profit{
+    font-size: 13px;
+    
+}

@@ -1,0 +1,27 @@
+.button_reg{
+    top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background: white;
+    border: 2px solid black;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button_reg:hover{
+    background-color:rgb(219, 219, 219);
+
+}
+.paper{
+    position: fixed;
+    height: 300px;
+    right: 50px;
+    top: 100px;
+
+}
+.registrationPage_img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 50px;
+    margin-left: 107px;
+}

@@ -1,0 +1,16 @@
+.AL_login {
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+}
+.btn_reg_librarian{
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:white;
+    padding: 10px;
+    border: solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn_reg_librarian:hover{
+    background-color:rgb(227, 227, 227);
+}

@@ -1,0 +1,20 @@
+.addBooks_form{
+    position: relative;
+    text-align: center;
+    margin-top: 10px;
+}
+.btn_b_save{
+    margin-top: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:white;
+    padding: 10px;
+    border: solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn_b_save:hover{
+    background-color:rgb(227, 227, 227);
+}
+.addBooks_h2{
+    text-align: center;
+}

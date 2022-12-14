@@ -1,0 +1,32 @@
+.libManagement_wrapperResult{
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    background-color:white;
+    border-radius: 8px;
+    margin: 1px;    
+    width: 300px;
+    margin: 5px auto;
+    border: solid black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.libManagement_itemsResult{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-decoration: none;
+}
+.libManag_btn{
+    display: grid;
+    margin-left: 100px;
+}
+.libManag_delete,
+.libManag_roleEdit{
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:white;
+    width: 100px;
+    border: solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

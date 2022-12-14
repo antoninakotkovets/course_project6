@@ -1,0 +1,39 @@
+.browseProfit_wrapperResult{
+    display: flex;
+    justify-content:center;
+    padding: 10px;
+    background-color:white;
+    border-radius: 8px;
+    margin: 1px;    
+    margin: 5px auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.browseProfit_itemsResult{
+    display: flex;
+    width: 1100px;
+}
+.browseProfit_wrapperResult p{ 
+    width: 1500px;
+}
+.result_profit{
+    margin-top: 20px;
+    display: flex;
+    justify-content:center;
+    font-style: italic;
+    font-size: 20px;
+    text-decoration:overline;
+}
+.btn_report{
+    position: relative;
+    top: -55px;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+    background-color:white;
+    width: 100px;
+    border: solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn_report:hover{
+    background-color:rgb(224, 224, 224);
+}

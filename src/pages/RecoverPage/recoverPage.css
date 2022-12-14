@@ -1,0 +1,19 @@
+.button_reg{
+    color:black;
+    top: 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    background: white;
+    border: 2px solid black;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button_reg:hover{
+    background-color:rgb(196, 196, 196);
+}
+.recover_div{
+    text-align: center;
+}
+.recover_h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

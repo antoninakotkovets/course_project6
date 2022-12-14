@@ -1,0 +1,28 @@
+.librarianPage_img{
+    width: 400px;
+    position: fixed;
+    left: 40%;
+    top: 10%;
+}
+.librarianPage_btn_addBooks,
+.librarianPage_btn_bookManagement{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    border-radius:5px;
+    background: white;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid black;
+}
+
+.librarianPage_btn_addBooks:hover,
+.librarianPage_btn_bookManagement:hover{
+    background-color:rgb(229, 229, 229);
+}
+.librarianPage_btn{
+    position:absolute;
+    top: 60%;
+    left: 40%;
+
+}

@@ -1,0 +1,39 @@
+.button_enter{
+    position: relative;
+    top: 75px;
+    right: 200px;
+    text-decoration: none;
+    border-radius: 5px;
+    background: white;
+    padding: 10px;
+    border: 2px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.textPassword{
+    left: 32px;  
+    
+}
+.recoverLink {
+    display: block;
+    position: absolute;
+    right: 70px;
+    bottom: -32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.login__wrapper {
+    position: relative;
+    text-align: center;
+  
+}
+h1{
+    text-align: center;
+}
+
+.loginPage_img{
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 50px;
+    margin-left: 300px;
+}

@@ -1,0 +1,18 @@
+.delivery_btn_save{
+    border-radius:5px;
+    background: white;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid black;
+    margin-top: 10px;
+    margin-left: 100px;
+
+}
+.delivery_btn_save:hover{
+    background-color:rgb(222, 222, 222);
+}
+.delivery_p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: -30px;
+    margin-left: 200px;
+}

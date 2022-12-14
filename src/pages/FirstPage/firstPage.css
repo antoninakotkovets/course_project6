@@ -1,0 +1,10 @@
+
+
+.fs_books{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    top: 100px;
+}
